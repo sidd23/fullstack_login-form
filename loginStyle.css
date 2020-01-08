@@ -1,0 +1,19 @@
+input {
+    width: 100%;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+#message {
+    display: none;
+    position: relative;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
+
